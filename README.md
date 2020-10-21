@@ -1,6 +1,15 @@
 # GuiCommandBan     禁止世界命令                    
 
-的
 
 
+# 简介介绍
+GuiCommandBan 是一款 Gui 界面的便捷禁止世界命令插件
 
+
+# 命令
+
+
+# 权限
+
+
+# 
