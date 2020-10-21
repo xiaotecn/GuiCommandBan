@@ -1,20 +1,6 @@
-# GuiCommandBan
+# GuiCommandBan     禁止世界命令                    
 
-啊啊啊啊
-
-
-
-啊
-
-
-啊
-
-
-啊
+的
 
 
 
-啊
-
-
-啊
